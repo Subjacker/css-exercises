@@ -1,0 +1,19 @@
+.oddnos {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: hsl(0, 100%, 80%);
+}
+
+.three {
+    font-size: 24px;
+}
+
+#one {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#two {
+    background-color: hsl(94, 89%, 72%);
+    font-weight: bold;
+    font-size: 24px;
+}
